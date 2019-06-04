@@ -1,12 +1,13 @@
 # Automation
 
----
+![](image=assets/img/Updating_Services_in_a_Swarm_Mode_Cluster.png)
+
 
 ## Add Some Slide Candy
 
 <!-- ![](assets/img/presentation.png)-->
 
----?image=(assets/img/Updating_Services_in_a_Swarm_Mode_Cluster.png)
+---?image=assets/img/Updating_Services_in_a_Swarm_Mode_Cluster.png
 
 @title[Customize Slide Layout]
 
