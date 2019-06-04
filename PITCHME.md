@@ -6,7 +6,7 @@
 
 <!-- ![](assets/img/presentation.png)-->
 
----?image=C:\Users\Mafalda Santos\Pictures\Updating_Services_in_a_Swarm_Mode_Cluster.png
+---?image=(assets/img/Updating_Services_in_a_Swarm_Mode_Cluster.png)
 
 @title[Customize Slide Layout]
 
