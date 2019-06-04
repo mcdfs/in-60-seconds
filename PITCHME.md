@@ -1,4 +1,4 @@
-# Let's Get Started
+# A slide show
 
 ---
 
