@@ -1,12 +1,13 @@
-# A slide show
+# Automation
 
 ---
 
 ## Add Some Slide Candy
 
-![](assets/img/presentation.png)
+<!-- ![](assets/img/presentation.png)-->
 
----
+---?image=C:\Users\Mafalda Santos\Pictures\Updating_Services_in_a_Swarm_Mode_Cluster.png
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
