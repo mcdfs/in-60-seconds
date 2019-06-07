@@ -1,18 +1,27 @@
-# Automation
+# Tibco BWCE Deploy 
 
 ![](image=assets/img/Updating_Services_in_a_Swarm_Mode_Cluster.png)
-
-
-## Add Some Slide Candy
 
 <!-- ![](assets/img/presentation.png)-->
 
 ---?image=assets/img/Updating_Services_in_a_Swarm_Mode_Cluster.png
 
-@title[Customize Slide Layout]
+@title[Create a Service]
 
-@snap[west span-50]
+**To create a service**, you specify which container image to use and which commands to execute inside running containers. You also define options for the service including:
+
+- **the port where the swarm makes the service available outside the swarm** - `Dev` 
+- an **overlay network for the service to connect to other services** in the swarm - `Dev` 
+- CPU and memory limits and reservations - `CCSPJ Tibco`
+- a rolling update policy -  `CCSPJ Tibco`
+- the number of replicas of the image to run in the swarm - `CCSPJ Tibco`
+
+![img](file://C:/Users/Mafalda%20Santos/AppData/Roaming/Typora/typora-user-images/1559680372283.png?lastModify=1559687810)
+
+
+
 ## Customize Slide Content Layout
+
 @snapend
 
 @snap[east span-50]
